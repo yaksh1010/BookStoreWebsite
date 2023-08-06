@@ -1,0 +1,22 @@
+First name
+Last name
+Phone number
+Email
+Age
+Gender
+Address
+Favorite color
+Hobbies
+Favorite 1st sem Subject (provide drop down list)
+Enter favorite website url
+Birth date
+File upload 12th mark sheet
+Password
+Password again
+Submit button
+Reset button
+
+
+
+av hero, birth place, mother name ==> forgot 
+ username==> login
